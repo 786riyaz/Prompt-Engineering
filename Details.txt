@@ -1,0 +1,72 @@
+GPT :: Generative Pre-trained Transformer
+
+LLM :: Large Language Model
+
+175 billion parameters
+570 GB text
+
+Google BARD
+
+====================================================================================
+Personalize
+Decision Making
+Time Saving
+Quality of answers depends on Quality of direction
+Non toxic response
+====================================================================================
+Prompt Engineering-------------------------
+prompt defining and prompt refining
+
+take a persona of a strict manager and write an email to your employee mentioning their bad performance.
+
+what are the most significant contributions of albert einstein to quantum physics.
+Give me the appropriate sources for each for these points.
+
+what are the best ways to exercise your heart?
+can you share the links to the reference where this information is present?
+
+what are the best home workout for cardio vascular health for people suffering from diabetes?
+
+====================================================================================
+prompt defining ---------
+clarity & specificity, context & BG information, desired output
+
+what's the best way to exercise?
+what's the best way to exercise to improve my cardio vascular health at age of 55.
+
+I recently turned 30 i have some belly fat and weigh 78 kgs. my height is 5 fft 9 in. i want to lose weight. give me a weekly 60 mins workout plan including cardio. i go to a gym nearby which has only weight training equipments like barbells and dumbbels and machines to do pull ups and dips.
+
+I am a south indian male. i weigh 77 kgs, my height is 5 ft 9 in. my age is 28. suggest me a south indian meal plan so that i lose weight to 72 kgs.
+
+I am a south indian male. i weigh 77 kgs, my height is 5 ft 9 in. my age is 28. suggest me a south indian meal plan so that i lose weight to 72 kgs. i want to follow the intermittent fasting. give me a weekly meal plan for the same. represent the data in tabular format.
+
+I am a south indian male. i weigh 77 kgs, my height is 5 ft 9 in. my age is 28. suggest me a south indian meal plan so that i lose weight to 72 kgs. i want to follow the intermittent fasting. give me a weekly meal plan that complies with intermittend fasting. represent the data in tabular format.
+
+write in the voice of elon musk
+====================================================================================
+Prompt refining ::
+--> act as a fitness instructor and i am your client.
+I am a south indian male. i weigh 77 kgs, my height is 5 ft 9 in. my age is 28. suggest me a south indian meal plan so that i lose weight to 72 kgs. i want to follow the intermittent fasting. give me a weekly meal plan that complies with intermittend fasting. represent the data in tabular format.
+--> Also suggest me weekly home workouts for losing weight and put the data in tabular format along with meals.
+
+put continue to go to next part
+
+write me a blog post on "how to do intermettent fasting"
+--> write a 2000 word blog post on "how to do intermittent fasting"
+--> write in active voice and first person singular
+--> start with emotionally engaging personal story about how i lost weight with intermittent fasting and then engage reader through out the blog with simple indian example.
+write as if you are explaining to a 12th/5th grade kid.
+--> write it in a listicle format.
+--> write in step by step format.
+--> write in an informal tone and use emojis to make things fun and engage the reader through out the blog.
+--> make sure that none of the sentances are more than 10 words. 
+--> list 5 benefits of intermettent fasting explaining the examples of each in 100 words.
+
+====================================================================================
+Tips -------------------
+Grading test of the response (hemingway editor) 
+AI Detector 
+====================================================================================
+
+
+not take its words as granted.
